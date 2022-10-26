@@ -1,4 +1,4 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources>
     <!-- Base application theme. -->
     <style name="Theme.Recipe_App_Retrofit2_Room_coroutines" parent="Theme.MaterialComponents.Light.NoActionBar">
         <!-- Primary brand color. -->
@@ -8,5 +8,12 @@
         <!-- Customize your theme here. -->
     </style>
 
+    <style name="ThemeOverlay.Search" parent="Theme.Recipe_App_Retrofit2_Room_coroutines">
+
+        <item name="android:editTextColor">@color/black</item>
+        <item name="android:textColorHint">@color/hintTextColor</item>
+
+
+    </style>
 
 </resources>

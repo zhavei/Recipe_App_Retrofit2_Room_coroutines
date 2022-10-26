@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/LenovoPC/AndroidStudioProjects/Recipe_App_Retrofit2_Room_coroutines/app/src/main/res/drawable/btn_bg.xml" value="0.1" />
+        <entry key="..\:/Users/LenovoPC/AndroidStudioProjects/Recipe_App_Retrofit2_Room_coroutines/app/src/main/res/drawable/search_bg.xml" value="0.1345" />
+        <entry key="..\:/Users/LenovoPC/AndroidStudioProjects/Recipe_App_Retrofit2_Room_coroutines/app/src/main/res/layout/activity_home.xml" value="0.25" />
         <entry key="..\:/Users/LenovoPC/AndroidStudioProjects/Recipe_App_Retrofit2_Room_coroutines/app/src/main/res/layout/activity_main.xml" value="0.17806484295845998" />
         <entry key="..\:/Users/LenovoPC/AndroidStudioProjects/Recipe_App_Retrofit2_Room_coroutines/app/src/main/res/layout/activity_splash.xml" value="0.22" />
       </map>
